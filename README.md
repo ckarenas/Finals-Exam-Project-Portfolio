@@ -1,127 +1,93 @@
-Prelim Portfolio
+# Prelim Portfolio
 
-Carlson Kerk Arenas
+**Carlson Kerk Arenas**  
+BSN 4F | Ateneo de Davao University
 
-BSN Student | Ateneo de Davao University
+Welcome to my digital portfolio! This repository brings together the presentations, design projects, and nursing-related activities I completed for 21st Century IT Skills.
 
-Welcome to my digital portfolio!
+## 👋 About Me
 
-This repository brings together the academic activities, creative outputs, learning experiences, and projects I have completed throughout my journey as a Bachelor of Science in Nursing student.
+I’m Carlson, a fourth-year nursing student at Ateneo de Davao University. Whether I’m presenting to classmates or explaining a procedure to a patient, I want people to understand what I’m saying. These activities helped me practice that skill through slide design, online collaboration, and writing for different audiences.
 
-More than a collection of submitted files, this portfolio shows how I organize information, communicate ideas, develop creative work, and explore the connection between healthcare and digital technology.
+## 🗂️ Portfolio Contents
 
-👋 About Me
+| Activity | Project | What I practiced |
+| --- | --- | --- |
+| 01 | Presentation Design Principles | Arranging slides around a clear main idea |
+| 02 | Color Palette and Typography | Using color, type, and spacing to guide the reader |
+| 03 | Social Media Infographics | Combining short explanations with visuals |
+| 04 | [Google Meet and Google Forms](./ACTIVITY%2004/) | Presenting online, creating a quiz, and reviewing responses |
+| 05 | Prompt Refinement in Nursing Education | Comparing two ChatGPT responses about pressure injury prevention |
+| 06 | One-Page Personal Portfolio Website | Presenting my nursing experience and research online |
+| 07 | Comparative Résumé Generation | Evaluating two AI-generated drafts and editing a staff nurse résumé |
 
-Hi! I am Carlson Kerk Arenas, a Bachelor of Science in Nursing (BSN) student at Ateneo de Davao University.
+### 🎤 Activity 01 — Presentation Design Principles
 
-My development as a nursing student involves more than gaining clinical knowledge and skills. I also aim to strengthen my communication, creativity, research, technological, and organizational abilities.
+I practiced breaking a topic into slides, choosing a clear reading order, and organizing supporting details around each slide’s main idea. My outputs include presentation projects, slide layouts, and reflections on my design choices.
 
-I believe that future healthcare professionals must be able to explain information clearly, use technology responsibly, work with others, and continue learning as healthcare evolves. This portfolio documents my progress in developing those abilities.
+### 🎨 Activity 02 — Color Palette and Typography
 
-🗂️ Portfolio Contents
+I explored how color combinations, font sizes, and spacing affect readability. I focused on helping readers distinguish headings from supporting text and find their way through a layout.
 
-The repository is divided into activity folders so that each output is easy to locate and review.
+### 📱 Activity 03 — Social Media Infographics
 
-🎤 Activity 01: Presentation Design Principles
+I designed infographics that combine text and graphics to communicate a message at a glance. Choosing what to leave out helped me decide which information a reader needed most.
 
-This section contains presentation-based activities that helped me practice communicating information through effective structure, layout, and visual design.
+### 🎥 Activity 04 — Google Meet and Google Forms
 
-Featured work includes:
+Our group demonstrated how to create and join a Google Meet session, use the meeting chat, and share a screen, window, or browser tab. In Google Forms, we practiced creating a quiz, assigning points, reviewing responses, and linking them to Google Sheets. I also took the interactive quiz to check my understanding.
 
-Presentation projects
+One way I could use these tools in nursing education is to present a health topic over Meet and use a short Forms quiz to find out which ideas need more explanation.
 
-Slide layouts and designs
+**Activity materials**
 
-Visual organization exercises
+- [Group presentation (PDF)](./ACTIVITY%2004/GROUP-4-FORMS-AND-MEET-PPT.pdf)
+- [My quiz score (PDF)](./ACTIVITY%2004/GE-4120-_-G4_Quiz.pdf)
+- [Take the interactive Google Forms quiz](https://docs.google.com/forms/d/e/1FAIpQLSfperDHgiW2recV86enfxMl6Lav0aZCxHtS3fycjsJGuVEPvw/viewform)
 
-Project documentation
+### 🩺 Activity 05 — Prompt Refinement in Nursing Education
 
-Reflections on design choices
+I used ChatGPT to explore how the wording of a prompt changes an explanation for nursing students. My original prompt was:
 
-🎨 Activity 02: Color Palette and Typography
+> Explain how nurses prevent pressure injuries.
 
-This section explores how visual elements affect the clarity, mood, and overall appearance of information.
+The first response gave a brief list of preventive measures. In my revised prompt, I asked ChatGPT to act as a nursing instructor and focus on hospitalized patients. I requested five sections covering risk assessment, repositioning and mobility, skin care, nutrition and hydration, and patient education. I also asked for a rationale, examples from clinical duty, and a short checklist.
 
-Design areas explored:
+I compared the responses for **clarity, detail, accuracy, and usefulness**. The checklist made the second answer easier to review before duty, and the rationales helped me understand why each measure was included. I also learned to check AI-generated clinical information against current guidance and hospital policy before applying it to patient care.
 
-Color selection and harmony
+### 🌐 Activity 06 — One-Page Personal Portfolio Website
 
-Typography and readability
+I created a website to introduce myself and share what I learned in the obstetric emergency room, surgical units, and ward. I also featured our community study on health literacy and medication adherence among adults with type 2 diabetes.
 
-Visual hierarchy
+**Activity file:** `ARENAS_ACTIVITY6.pdf` includes the website objective, build prompt, screenshots, and my reflection.
 
-Composition and spacing
+### 📄 Activity 07 — Comparative Résumé Generation
 
-Layout consistency
+I gave two AI models the same prompt and compared their résumé drafts for structure, clarity, formatting, and overall quality. When editing my final version, I used examples from my rotations and described my supervised responsibilities accurately.
 
-📱 Activity 03: Social Media Infographics
+**Activity file:** `ARENAS_ACTIVITY7.pdf` includes the prompt, both drafts, a comparison table, my reflection, and my final one-page nursing résumé.
 
-This section presents infographic projects designed to communicate information in a simple, organized, and engaging format. These outputs demonstrate how text, graphics, color, and layout can work together to deliver a clear message.
+## 🩺 Nursing and Healthcare
 
-🩺 Nursing and Healthcare
+As my portfolio grows, I plan to add work on health assessment, patient safety, health education, community nursing, and documentation. Activity 05 is one example of how I connect a digital assignment to a question I encounter during clinical training.
 
-As this portfolio grows, I plan to include more outputs connected to my BSN studies and developing understanding of patient care.
+## 🔎 Research and Learning
 
-These may include work related to:
+Our community nursing research examines health literacy and medication adherence among adults with type 2 diabetes. I plan to use this space for literature reviews, research activities, and reflections on how I interpret and explain findings.
 
-Health assessment
+## 🎯 Purpose of This Portfolio
 
-Patient care and safety
+- Keep my academic and creative outputs organized and easy to find.
+- Track how my communication, design, and technology skills develop.
+- Record what I learned and what I would change in a future project.
+- Build a foundation for my professional nursing portfolio.
 
-Health education
+## 🚧 Challenges and Solutions
 
-Community health nursing
+GitHub was unfamiliar to me at first. I learned how repositories, folders, commits, and README files work by uploading one activity at a time and reviewing how it appeared. Numbering the folders and using descriptive filenames helped me keep related outputs together.
 
-Nursing documentation
+## 🌱 Continuing My Progress
 
-Healthcare concepts and projects
+I’ll continue adding projects as I complete new activities and clinical rotations. For each one, I want to record what I made, what I learned, and how I can use that lesson in class or on duty.
 
-🔎 Research and Learning
-
-Research activities allow me to examine information, compare evidence, organize findings, and improve my critical-thinking skills.
-
-This part of the portfolio may include:
-
-Research activities
-
-Literature-based outputs
-
-Academic papers and projects
-
-Data-related exercises
-
-Research documentation
-
-Learning reflections
-
-🎯 Purpose of This Portfolio
-
-I created this repository not only to submit academic requirements but also to build an organized record of my development as a student.
-
-Through this portfolio, I can:
-
-Keep my academic and creative outputs in one place
-
-Monitor my learning progress
-
-Show how my ideas and skills develop over time
-
-Present my work in a clear digital format
-
-Improve my confidence in using online tools
-
-Reflect on lessons gained from each activity
-
-Build a foundation for a future professional portfolio
-
-🚧 Challenges and Solutions
-
-GitHub was unfamiliar to me at first, particularly the use of repositories, folders, commits, and README files. I addressed this challenge by learning each feature step by step and reviewing my work after every upload.
-
-I also needed to keep the folder and file names consistent so that visitors could navigate the portfolio easily. To solve this, I used descriptive labels, grouped related outputs together, and tested each activity link to make sure it opened correctly.
-
-🌱 Continuing My Progress
-
-This portfolio will continue to develop as I complete new academic activities, creative projects, research work, and nursing-related experiences. Each addition will serve as a record of what I have learned and how I continue to grow as a student and future healthcare professional.
-
-Thank you for visiting my digital portfolio!
+Thank you for visiting my portfolio!
